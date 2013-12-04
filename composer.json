@@ -1,0 +1,17 @@
+{
+    "name": "craig0990/granite",
+    "description": "A PHP Git library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Craig Roberts",
+            "email": "craig0990@googlemail.com"
+        }
+    ],
+    "autoload": {
+        "psr-0": {
+            "Granite\\": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}
